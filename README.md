@@ -10,7 +10,7 @@ Execution instructions:
    If any of it is not provided, the script will prompt user for the same.
   Example execution:
 ```python
-python marching_doubler.py --rlen 5 --terms 10 --ofile test
+python marching_doubler.py --runlen 5 --terms 10 --ofile test
 ```
 Above command will create the series for a run length of 5 until the total terms are met , and will write to the file test in the current directory
 
