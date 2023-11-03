@@ -2,7 +2,7 @@ Description:
 This script generates a marching doubler series as specified in the problem description.
 
 Execution instructions:
-1. Clone this repo using git clone
+1. Clone this repo using git clone https://github.com/pradeeptyagi23/MarchingDoubler.git
 2. cd to MarchingDoubler
   a. Standalone execution
    The script can be executed on a commandline with where python interpreter is install. Ideally it requires python version 3.9 or greater
